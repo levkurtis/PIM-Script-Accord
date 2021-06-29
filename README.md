@@ -1,0 +1,2 @@
+# PIM-Script-Accord
+This is a collection of some JavaScript code that I have created to automate some of the work in regards to registering products in the PIM database at my work for [Accord.dk](https://accord.dk)
